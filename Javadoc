@@ -1,0 +1,55 @@
+package cons; 
+
+ /**
+ * The class Test
+ */ 
+public class Test {
+
+
+/** 
+ *
+ * Main
+ *
+ * @param args  the args
+ */
+	public static void main(String[] args) { 
+
+
+		System.out.println(new Test().addTwoNumbers(4, 4.4));
+	}
+
+
+/** 
+ *
+ * Add four numbers
+ *
+ * @param firstNo  the first number
+ * @param secondNumber  the next number
+ * @param thirdNumber  the next number
+ * @param forthNumber  the next number
+ * @return double
+ */
+	private double addTwoNumbers(int firstNo, double nextNumber) { 
+
+		return firstNo + nextNumber;
+	}
+
+
+
+private double addTwoNumbers(int secondNo, double nextNumber) { 
+
+		return secondNo + nextNumber;
+	}
+
+private double addTwoNumbers(int thirdNo, double nextNumber) { 
+
+		return thirdNo + nextNumber;
+	}
+  
+  private double addTwoNumbers(int forthNo, double nextNumber) { 
+
+		return forthNo + nextNumber;
+	}
+
+}
+}
