@@ -7,5 +7,5 @@ https://docs.google.com/spreadsheets/d/1nnzdbIyBKnZLl-TNvXbUU7IYfr5dFBOkd-WC2Yoo
 ![chart (3)](https://user-images.githubusercontent.com/100845274/166932147-6f52c2de-4afe-49fd-afae-d04b35b99cab.png)
 ![stack](https://user-images.githubusercontent.com/100845274/166947258-2f84592f-94de-4283-8717-a92d7979a8ce.png)
 ![array](https://user-images.githubusercontent.com/100845274/166947272-b6ca6191-5714-4dc0-9681-316cde917ea1.png)
-![sorted](https://user-images.githubusercontent.com/100845274/166947276-52e4cc48-3a5e-435a-b9e1-2658be62022b.png)
+![Insert (fill) and Search - First](https://user-images.githubusercontent.com/100845274/166949417-9ae1cd6b-9f03-4734-8022-e4c8a20f0e6f.png)
 ![Treemap](https://user-images.githubusercontent.com/100845274/166948264-f37cb417-b8dc-4ca6-945e-d46f518be15b.png)
